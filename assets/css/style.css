@@ -385,6 +385,9 @@ scrollUp
   min-height: 100vh;
   padding: 6rem 0;
   z-index: 1;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 .hero-banner::before {
   position: absolute;
